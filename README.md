@@ -1,0 +1,1 @@
+Repository ini berisi berbagai file latihan yang saya gunakan dalam mempelajari bahasa pemrograman JavaScript. Tujuan utama dari repository ini adalah untuk mendokumentasikan perjalanan pembelajaran saya serta sebagai referensi untuk mengingat konsep-konsep yang telah dipelajari.
